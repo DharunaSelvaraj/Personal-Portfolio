@@ -21,7 +21,6 @@ Welcome to my personal portfolio! This project showcases my skills, experiences,
 ## Screenshots
 ![Homepage](homepage.jpg)
 ![Project Showcase](projectshowcase.jpg)
-![About Me Section](aboutme.jpg)
 
 ## Installation
 
